@@ -1,0 +1,10 @@
+package hr.fer.zemris.optjava.dz7.part2;
+
+public class ClonAlgIrisClassifier {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

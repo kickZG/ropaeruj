@@ -1,0 +1,10 @@
+package hr.fer.zemris.optjava.dz4.part2;
+
+public class BoxFilling {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

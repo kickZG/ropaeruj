@@ -1,0 +1,9 @@
+package hr.fer.zemris.optjava.dz8;
+
+public class ANNTrainer {
+
+	public static void main(String[] args) {
+		DataParser dataParser = new DataParser(args[0]);
+	}
+
+}

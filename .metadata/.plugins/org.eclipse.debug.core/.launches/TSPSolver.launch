@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
+<listEntry value="/HW6_AntAlg/src/hr/fer/zemris/optjava/dz6/TSPSolver.java"/>
+</listAttribute>
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
+<listEntry value="1"/>
+</listAttribute>
+<stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="hr.fer.zemris.optjava.dz6.TSPSolver"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROGRAM_ARGUMENTS" value="att48.tsp 8 40 500"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="HW6_AntAlg"/>
+</launchConfiguration>

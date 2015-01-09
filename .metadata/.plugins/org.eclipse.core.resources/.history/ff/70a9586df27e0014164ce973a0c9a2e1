@@ -1,0 +1,11 @@
+package hr.fer.zemris.optjava.dz6;
+
+public class RouletteWheel {
+
+	public int chooseCity() {
+		int index = 0;
+		
+		return index;
+	}
+	
+}

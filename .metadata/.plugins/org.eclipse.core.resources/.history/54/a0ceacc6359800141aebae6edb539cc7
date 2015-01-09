@@ -1,0 +1,24 @@
+package hr.fer.zemris.optjava.dz8;
+
+import java.io.IOException;
+
+public class ANNTrainer {
+
+	/**
+	 * 
+	 * @param args Arguments from command line:
+	 * 		- fileName
+	 * 		- net ("tdnn-[arh]" or "elman-[arh]")
+	 * 			[arh] - for example 8x10x1 (net dimensions)
+	 * 		- n (size of population)
+	 * 		- merr (acceptable MSE)
+	 * 		- maxiter (maximal number of iterations)
+	 * @throws NumberFormatException
+	 * @throws IOException
+	 */
+
+	public static void main(String[] args) throws IOException {
+		DataParser dataParser = new DataParser(args[0]);
+	}
+
+}

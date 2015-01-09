@@ -1,0 +1,9 @@
+package hr.fer.zemris.optjava.dz7.part1;
+
+public class PsoIrisClassifier {
+
+	public static void main(String[] args) {
+		
+	}
+
+}

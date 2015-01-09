@@ -1,0 +1,52 @@
+package hr.fer.zemris.optjava.dz5.part1.GeneticAlgorithm;
+
+/**
+ * This class implements k-tournament selection, but also provides
+ * a method for random choosing the parents.
+ * 
+ * @author kristijan
+ *
+ */
+
+public class SelectionOperator {
+
+	private int k;
+	
+	/**
+	 * The constructor takes parameter k which indicates the type
+	 * of the tournament selection.
+	 * 
+	 * @param k
+	 */
+	
+	public SelectionOperator(int k) {
+		this.k = k;
+	}
+	
+	/**
+	 * Tournament selection method (without possible repeating solutions).
+	 * @param fitness Fitness array for every solution in population.
+	 * @return index Chosen solution
+	 */
+	
+	public boolean[][] chooseBothTournament(boolean[][] population) {
+		//first, randomly choose n solutions
+		int rand = (int)(Math.random() * fitness.length);
+		int index = rand;
+		double bestFitness = fitness[rand];
+		for(int i = 1; i < this.n; i++) {
+			rand = (int)Math.random() * fitness.length;
+			if(fitness[rand] < bestFitness) {
+				index = rand;
+				bestFitness = fitness[rand];
+			}
+		}
+		
+		return index;
+	}
+	
+	public boolean[][] chooseOneRandom() {
+		
+	}
+	
+}

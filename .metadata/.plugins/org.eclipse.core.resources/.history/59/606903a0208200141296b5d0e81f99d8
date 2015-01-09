@@ -1,0 +1,9 @@
+package hr.fer.zemris.optjava.dz7.part1;
+
+public class FFANN {
+
+	public FFANN(int[] layers, ITransferFunction functionList, IReadOnlyDataset dataset) {
+		
+	}
+	
+}

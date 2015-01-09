@@ -1,0 +1,14 @@
+package hr.fer.zemris.optjava.dz7.part1;
+
+public class IReadOnlyDataset {
+
+	public static  loadData(String input) {
+		
+		return null;
+	}
+	
+	public int numberOfSamples() {
+		return 0;
+	}
+	
+}

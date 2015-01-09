@@ -1,0 +1,29 @@
+package hr.fer.zemris.optjava.dz8;
+
+import java.io.BufferedReader;
+import java.io.DataInputStream;
+import java.io.FileInputStream;
+import java.io.InputStreamReader;
+
+public class DataParser {
+
+	private String fileName;
+	
+	public DataParser(String fileName) {
+		FileInputStream fstream = new FileInputStream(fileName);
+		DataInputStream in = new DataInputStream(fstream);
+		BufferedReader br = new BufferedReader(new InputStreamReader(in));
+		
+		String strLine;
+		int i = 0;
+		while((strLine = br.readLine()) != null) {
+			
+			br.close();
+		}
+	}
+	
+	public void setFileName(String fileName) {
+		this.fileName = fileName;
+	}
+	
+}

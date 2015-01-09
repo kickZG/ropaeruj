@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="java.util.Random"/>
+<fullyQualifiedTypeName name="hr.fer.zemris.trisat.BitVectorNGenerator"/>
+<fullyQualifiedTypeName name="hr.fer.zemris.optjava.dz2.Jednostavno.NumOptAlgorithms"/>
+<fullyQualifiedTypeName name="java.io.DataInputStream"/>
+<fullyQualifiedTypeName name="hr.fer.zemris.optjava.dz3.SimulatedMain"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="hr.fer.zemris.optjava.dz4.part1.GeneticAlgorithm"/>
+<fullyQualifiedTypeName name="hr.fer.zemris.optjava.dz3.BitVectorSolution"/>
+<fullyQualifiedTypeName name="java.util.Arrays"/>
+<fullyQualifiedTypeName name="hr.fer.zemris.optjava.dz5.part1.GeneticAlgorithm.FitnessFunction"/>
+<fullyQualifiedTypeName name="java.lang.Integer"/>
+<fullyQualifiedTypeName name="hr.fer.zemris.optjava.dz7.part1.IReadOnlyDataset"/>
+<fullyQualifiedTypeName name="hr.fer.zemris.optjava.dz7.part1.ParticleSwarmOptimizer"/>
+<fullyQualifiedTypeName name="hr.fer.zemris.optjava.dz7.part1.CloneAlgorithm"/>
+<fullyQualifiedTypeName name="hr.fer.zemris.optjava.dz7.part1.ICloneOperator"/>
+<fullyQualifiedTypeName name="hr.fer.zemris.optjava.dz7.part1.ProportialAffinityCloneOperator"/>
+<fullyQualifiedTypeName name="hr.fer.zemris.optjava.dz7.part1.UnifDoubleMutator"/>
+<fullyQualifiedTypeName name="hr.fer.zemris.optjava.dz7.part1.Constants"/>
+</qualifiedTypeNameHistroy>

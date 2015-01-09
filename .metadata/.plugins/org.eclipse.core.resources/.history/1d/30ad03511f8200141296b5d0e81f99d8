@@ -1,0 +1,10 @@
+package hr.fer.zemris.optjava.dz7.part1;
+
+public class IReadOnlyDataset {
+
+	public static IReadOnlyDataset loadData(String input) {
+		
+		return null;
+	}
+	
+}

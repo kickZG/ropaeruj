@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
+<listEntry value="/HW7_ANN_Pso_ClonAlg/src/hr/fer/zemris/optjava/dz7/part1/ANNTrainer.java"/>
+</listAttribute>
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
+<listEntry value="1"/>
+</listAttribute>
+<stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="hr.fer.zemris.optjava.dz7.part1.ANNTrainer"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROGRAM_ARGUMENTS" value="07-iris-formatirano.data pso-a"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="HW7_ANN_Pso_ClonAlg"/>
+</launchConfiguration>

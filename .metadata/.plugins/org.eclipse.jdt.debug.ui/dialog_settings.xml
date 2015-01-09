@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.jdt.debug.ui.MAIN_METHOD_SELECTION_DIALOG">
+		<item value="true" key="ShowStatusLine"/>
+		<item value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#x0A;&lt;History&gt;&#x0A;&lt;historyRootNode&gt;&#x0A;&lt;infoNode&gt;=HW5_ImprGenAlg/src&amp;lt;hr.fer.zemris.optjava.dz5.part1.GeneticAlgorithm{Rapga.java[Rapga&lt;/infoNode&gt;&#x0A;&lt;infoNode&gt;=HW5_ImprGenAlg/src&amp;lt;hr.fer.zemris.optjava.dz5.part2.GeneticAlgorithm{Sasegasa.java[Sasegasa&lt;/infoNode&gt;&#x0A;&lt;infoNode&gt;=HW6_AntAlg/src&amp;lt;hr.fer.zemris.optjava.dz6{proba.java[proba&lt;/infoNode&gt;&#x0A;&lt;infoNode&gt;=HW6_AntAlg/src&amp;lt;hr.fer.zemris.optjava.dz6{TSPSolver.java[TSPSolver&lt;/infoNode&gt;&#x0A;&lt;infoNode&gt;=HW7_ANN_Pso_ClonAlg/src&amp;lt;hr.fer.zemris.optjava.dz7.part1{ANNTrainer.java[ANNTrainer&lt;/infoNode&gt;&#x0A;&lt;/historyRootNode&gt;&#x0A;&lt;/History&gt;" key="History"/>
+		<section name="DialogBoundsSettings">
+			<item value="600" key="DIALOG_WIDTH"/>
+			<item value="0" key="DIALOG_Y_ORIGIN"/>
+			<item value="100" key="DIALOG_X_ORIGIN"/>
+			<item value="500" key="DIALOG_HEIGHT"/>
+			<item value="1|Ubuntu|11.0|0|GTK|1|" key="DIALOG_FONT_NAME"/>
+		</section>
+	</section>
+</section>

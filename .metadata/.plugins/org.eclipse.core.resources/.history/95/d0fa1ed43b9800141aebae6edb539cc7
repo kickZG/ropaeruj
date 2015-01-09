@@ -1,0 +1,10 @@
+package hr.fer.zemris.optjava.dz8;
+
+public class HyperboloidTangens implements ITransferFunction {
+
+	@Override
+	public double getValue(double net) {
+		return 0;
+	}
+
+}

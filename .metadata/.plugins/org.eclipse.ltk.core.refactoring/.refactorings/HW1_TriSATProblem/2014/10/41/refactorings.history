@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;Parser.java&apos; to &apos;HW1_TriSATProblem/src/hr.fer.zemris.parser&apos;&#x0A;- Original project: &apos;HW1_TriSATProblem&apos;&#x0A;- Destination element: &apos;HW1_TriSATProblem/src/hr.fer.zemris.parser&apos;&#x0A;- Original element: &apos;hr.fer.zemris.trisat.Parser.java&apos;&#x0A;- Update references to refactored element" description="Move compilation unit" destination="/src&lt;hr.fer.zemris.parser" element1="/src&lt;hr.fer.zemris.trisat{Parser.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" patterns="*" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1413061481275" units="1" version="1.0"/>
+</session>
